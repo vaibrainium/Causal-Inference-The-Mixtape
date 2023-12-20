@@ -28,5 +28,6 @@ pathlib2
 wheel
 
 # Project specific requirements
-blackjax
 ipywidgets
+pymc
+bambi
