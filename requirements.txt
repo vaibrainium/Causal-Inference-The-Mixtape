@@ -1,5 +1,5 @@
-# # local package
-# -e .
+# local package
+-e .
 
 # external requirements
 pre_commit
@@ -31,3 +31,5 @@ wheel
 ipywidgets
 pymc
 bambi
+plotnine
+stargazer
